@@ -44,6 +44,9 @@ That's it! You have successfully generated a customized logo SVG using the provi
 **For a video walkthrough click [here](![SVG-logo](https://github.com/ShivaTagh/SVG-Logo-Maker/assets/127795324/af4c6317-2e04-4702-9622-dc9ec89d3a95)
 ")**
 
+NPM Test:
+
+![image](https://github.com/ShivaTagh/SVG-Logo-Maker/assets/127795324/c5789877-c313-4628-b848-5c7e8bed6d04)
 
 
 ## Questions 
