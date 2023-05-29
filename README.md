@@ -44,7 +44,24 @@ That's it! You have successfully generated a customized logo SVG using the provi
 **For a video walkthrough click [here](![SVG-logo](https://github.com/ShivaTagh/SVG-Logo-Maker/assets/127795324/af4c6317-2e04-4702-9622-dc9ec89d3a95)
 ")**
 
-NPM Test:
+
+## Tests
+
+To run the shape tests, follow these steps:
+
+1. Ensure you have Jest installed globally or as a dev dependency.
+
+2. Open a terminal window and navigate to the project directory.
+
+3. Run the tests by executing the following command:
+```
+ npm test
+```
+
+4. Jest will execute the tests and display the results in the terminal.
+ * If all tests pass, you will see a success message for each test.
+ * If any test fails, Jest will provide details about the failure.
+
 
 ![image](https://github.com/ShivaTagh/SVG-Logo-Maker/assets/127795324/c5789877-c313-4628-b848-5c7e8bed6d04)
 
