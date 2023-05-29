@@ -39,7 +39,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer
     .prompt(questions)
-    .then((response) => writeToFile('./Assets/circle.svg', generateSVG(response)));
+    .then((response) => writeToFile('./Assets/logo.svg', generateSVG(response)));
 }
 
 init();
