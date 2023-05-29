@@ -61,9 +61,10 @@ To run the shape tests, follow these steps:
 4. Jest will execute the tests and display the results in the terminal.
  * If all tests pass, you will see a success message for each test.
  * If any test fails, Jest will provide details about the failure.
+![image](https://github.com/ShivaTagh/SVG-Logo-Maker/assets/127795324/3d1a72ed-bddc-4bfb-8e71-be2d227643f7)
 
+![npm-test](https://github.com/ShivaTagh/SVG-Logo-Maker/assets/127795324/36ccad7f-b6e6-4b7a-8217-8c07bf0ff7e0)
 
-![image](https://github.com/ShivaTagh/SVG-Logo-Maker/assets/127795324/c5789877-c313-4628-b848-5c7e8bed6d04)
 
 
 ## Questions 
